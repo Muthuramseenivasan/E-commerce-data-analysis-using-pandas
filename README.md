@@ -7,15 +7,15 @@ The project involves data cleaning, exploratory data analysis (EDA), and data vi
 
  ## Objectives
 
-## 1.Perform data cleaning and preprocessing
+ 1.Perform data cleaning and preprocessing
 
-## 2.Conduct exploratory data analysis (EDA)
+ 2.Conduct exploratory data analysis (EDA)
 
-## 3.Identify customer purchase trends
+ 3.Identify customer purchase trends
 
-## 4.Generate business insights from the data
+ 4.Generate business insights from the data
 
-## 5.Visualize important patterns using graphs and charts
+ 5.Visualize important patterns using graphs and charts
 
 
 ## Tools and Technologies Used
@@ -28,12 +28,12 @@ The project involves data cleaning, exploratory data analysis (EDA), and data vi
 
 4.Matplotlib
 
-Steps Performed in the Analysis
-1.Data Loading
+## Steps Performed in the Analysis
+## 1.Data Loading
 
 The dataset was imported into Python using Pandas and examined to understand its structure.
 
-2️. Data Cleaning
+## 2️. Data Cleaning
 
 Checked for missing values
 
@@ -41,7 +41,7 @@ Verified column data types
 
 Ensured the dataset was clean and ready for analysis
 
-3️. Exploratory Data Analysis (EDA)
+## 3️. Exploratory Data Analysis (EDA)
 
 EDA was performed to understand:
 
@@ -51,7 +51,7 @@ Spending behavior
 
 Relationships between different variables
 
-4️. Data Visualization
+## 4️. Data Visualization
 
 Visualizations were created using Matplotlib to better understand patterns in the dataset.
 
