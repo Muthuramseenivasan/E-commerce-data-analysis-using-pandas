@@ -66,6 +66,7 @@ This bar chart shows the top 10 products generating the highest revenue in the d
 
 Insight:
 These products contribute the most to total sales, indicating that book-related products and some household items are strong revenue drivers for the business.
+
 <img width="790" height="690" alt="download" src="https://github.com/user-attachments/assets/765097e3-7cfc-408b-9dab-121a95e0c29d" />
 
 
